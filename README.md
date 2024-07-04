@@ -1,9 +1,9 @@
 <p align="center"> 
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/> 
+<img src="https://i2.wp.com/www.windowslatest.com/wp-content/uploads/2018/02/microsoft-azure.png?fit=1920%2C1080&ssl=1"/> 
 </p> 
 
-<h1>osTicket - Prerequisites and Installation</h1 > 
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br /> 
+<h1>Virtul Machine - Prerequisites and Installation</h1 > 
+This tutorial outlines the prerequisites and installation of a Microsoft Azure Virtual Machine.<br /> 
 
 
 
@@ -11,8 +11,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Environments and Technologies Used</h2> 
 
 - Microsoft Azure (Virtual Machines/Compute) 
-- Remote Desktop 
-- Internet Information Services (IIS) 
+
 
 <h2>Operating Systems Used </h2> 
 
