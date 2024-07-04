@@ -1,9 +1,9 @@
 <p align="center"> 
-<img src="https://i2.wp.com/www.windowslatest.com/wp-content/uploads/2018/02/microsoft-azure.png?fit=1920%2C1080&ssl=1"/> 
+<img src="https://i.imgur.com/Clzj7Xs.png"/> 
 </p> 
 
-<h1>Virtul Machine - Prerequisites and Installation</h1 > 
-This tutorial outlines the prerequisites and installation of a Microsoft Azure Virtual Machine.<br /> 
+<h1>OS Ticket - Prerequisites and Installation</h1 > 
+This tutorial outlines the prerequisites and installation of OS Ticketing System .<br /> 
 
 
 
