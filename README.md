@@ -46,6 +46,10 @@ AND IIS Management Console
 Internet Information Services -> Web Management Tools -> IIS Management Console
 	[X] IIS Management Console
 
+![image](https://github.com/techwithterrence/osticket-prereqs/assets/174138674/11ab993b-3c9c-45e4-9ed7-8844004c5928)
+
+![image](https://github.com/techwithterrence/osticket-prereqs/assets/174138674/c1b51550-e4db-4c57-ab77-2ddc7edddf57)
+
 
 - From the Installation Files, download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
 
@@ -59,7 +63,11 @@ If this appears, choose to “Keep” the file:
 
 
 
+
 If you are still having trouble downloading PHP 7.3.8, please try downloading and installing Google Chrome and doing it from within there. 
+
+![image](https://github.com/techwithterrence/osticket-prereqs/assets/174138674/32e63438-d1ef-4fae-b6c1-1baf87a801cf)
+
 
 From the Installation Files, download and install VC_redist.x86.exe.
 
