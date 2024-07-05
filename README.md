@@ -10,7 +10,7 @@ This tutorial outlines the prerequisites and installation of OS Ticketing System
 
 <h2>Environments and Technologies Used</h2> 
 
-- Microsoft Azure (Virtual Machines/Compute) 
+- Microsoft Azure (Virtual Machines/Computer) 
 
 
 <h2>Operating Systems Used </h2> 
