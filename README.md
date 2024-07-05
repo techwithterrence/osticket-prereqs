@@ -28,7 +28,10 @@ Name: Vm-osticket
 Username: labuser (for example/whatever you chose)
 Password: osTicketPassword1! (for example/whatever you chose)
 
-![image](https://github.com/techwithterrence/osticket-prereqs/assets/174138674/fbfbc2ab-4357-4cb9-93f4-9d3b8646a9d6)
+![image](https://github.com/techwithterrence/osticket-prereqs/assets/174138674/4fe1e250-e47a-40aa-84c4-c38b62b5e073)
+![image](https://github.com/techwithterrence/osticket-prereqs/assets/174138674/68af1d14-b06a-495c-8bdf-a14947f75853)
+
+
 
 
 Open this: Installation Files
